@@ -15,8 +15,9 @@ opts = GetoptLong.new(
 )
 
 key_word = Array.new
-phone_num = ""
-website = ""
+pattern = ''
+phone_num = ''
+website = ''
 
 opts.each do |opt, arg|
   case opt
@@ -38,7 +39,7 @@ opts.each do |opt, arg|
       end
 	when '--help'
 	  puts <<-EOF
-xxxxxxxxxxxxxxxx
+nohup ruby SecretFlyingReminder_v2.rb -n [number] -k [keyword] -w [website] -p [pattern] &
       EOF
 	end
 end
@@ -47,7 +48,7 @@ last_match = Array.new
 target_list = Array.new
 
 scheduler = Rufus::Scheduler.new
-scheduler.every '5s' do
+scheduler.every '5m' do
 
   page = nil
   open(website) {|f| page = f.read }

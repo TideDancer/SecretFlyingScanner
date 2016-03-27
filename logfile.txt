@@ -249,3 +249,18 @@ class="blogpost_title"><a href="http://www.secretflying.com/2016/03/mega-post-ph
 class="blogpost_title"><a href="http://www.secretflying.com/2016/03/new-york-las-vegas-vice-versa-120-return/">**EXPIRED** NEW YORK TO LAS VEGAS (&#038; VICE VERSA) FOR ONLY $120 RETURN</a>
 class="blogpost_title"><a href="http://www.secretflying.com/2016/03/san-francisco-many-asian-cities-379-return/">SAN FRANCISCO TO MANY ASIAN CITIES FROM ONLY $379 RETURN</a>
 class="blogpost_title"><a href="http://www.secretflying.com/2016/03/chicago-fort-lauderdale-vice-versa-116-return/">CHICAGO TO FORT LAUDERDALE (&#038; VICE VERSA) FOR ONLY $116 RETURN</a>
+2016-03-26 23:58:07 -0400
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/dallas-orlando-vice-versa-70-return/">DALLAS TO ORLANDO (&#038; VICE VERSA) FOR ONLY $70 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/new-york-turks-caicos-islands-267-return/">NEW YORK TO THE TURKS &#038; CAICOS ISLANDS FOR ONLY $267 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/business-class-los-angeles-honduras-590-return/">BUSINESS CLASS FROM LOS ANGELES TO HONDURAS FOR ONLY $590 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/boston-st-martin-214-return/">BOSTON TO ST. MARTIN FOR ONLY $214 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/new-york-melbourne-australia-851-return/">NEW YORK TO MELBOURNE, AUSTRALIA FOR ONLY $851 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/chicago-to-los-angeles-vice-versa-for-only-return/">CHICAGO TO LOS ANGELES (&#038; VICE VERSA) FOR ONLY $88 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/boston-us-virgin-islands-230-return/">BOSTON TO THE US VIRGIN ISLANDS FOR ONLY $230 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/jetblue-flash-sale-19-one-way-e-g-boston-fort-myers-florida/">**EXPIRED** JETBLUE FLASH SALE FROM ONLY $19 ONE-WAY (E.G. BOSTON TO FORT MYERS, FLORIDA)</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/oslo-norway-to-las-vegas-usa-for-only-e264-return-vice-versa-for-294/">OSLO, NORWAY TO LAS VEGAS, USA FOR ONLY €264 RETURN (&#038; VICE VERSA FOR $294 )</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/chicago-seattle-vice-versa-86-return/">CHICAGO TO SEATTLE (&#038; VICE VERSA) FOR ONLY $86 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/mega-post-philadelphia-chicago-dublin-shannon-ireland-449-return/">**EXPIRED** MEGA POST: PHILADELPHIA OR CHICAGO TO DUBLIN OR SHANNON, IRELAND FROM ONLY $449 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/new-york-las-vegas-vice-versa-120-return/">**EXPIRED** NEW YORK TO LAS VEGAS (&#038; VICE VERSA) FOR ONLY $120 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/san-francisco-many-asian-cities-379-return/">SAN FRANCISCO TO MANY ASIAN CITIES FROM ONLY $379 RETURN</a>
+class="blogpost_title"><a href="http://www.secretflying.com/2016/03/chicago-fort-lauderdale-vice-versa-116-return/">CHICAGO TO FORT LAUDERDALE (&#038; VICE VERSA) FOR ONLY $116 RETURN</a>
